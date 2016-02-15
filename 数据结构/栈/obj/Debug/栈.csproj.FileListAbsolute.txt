@@ -1,0 +1,5 @@
+F:\VB.NET\数据结构\List的实现\栈\bin\Debug\栈.exe
+F:\VB.NET\数据结构\List的实现\栈\bin\Debug\栈.pdb
+F:\VB.NET\数据结构\List的实现\栈\obj\Debug\栈.csprojResolveAssemblyReference.cache
+F:\VB.NET\数据结构\List的实现\栈\obj\Debug\栈.exe
+F:\VB.NET\数据结构\List的实现\栈\obj\Debug\栈.pdb
